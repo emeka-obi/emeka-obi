@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there my name is Emeka, and I will be making updates to this page shortly👋
 
 <!--
 **emeka-obi/emeka-obi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
